@@ -177,6 +177,8 @@ website:   	http://www.themepunch.com
 	padding:0 !important; 
 	margin:0 !important; 
 	list-style:none !important;
+	/* width: 100% !important;
+	left: 0px !important; */
 }
 
 .rev_slider li.tp-revslider-slidesli {

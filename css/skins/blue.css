@@ -71,7 +71,7 @@ body.double-diagonal .logos::before,
 	border:1px solid #4169e1;
 }
 .about-right-side .full-image-container.hovered:before  {
-	border-left: 5px solid #4169e1;
+	border-left: 1px solid #4169e1;
 }
 .projectmanager blockquote,
 #quote-carousel .carousel-indicators .active {
@@ -109,10 +109,6 @@ body.double-diagonal .logos::before,
 }
 .footer {
     border-top: 2px solid #4169e1;
-}
-.social-icons ul.social-icons-team li a,
-.about .about-right-side:before {
-    border: 2px solid #4169e1;
 }
 .preloader .loader {
   background-image: url(../../img/preloaders/preloader-blue-light.svg);
