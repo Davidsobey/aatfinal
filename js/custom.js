@@ -254,6 +254,8 @@
             $('#lastname')[0].value = '';
             $('#message')[0].value = '';
             $('#email')[0].value = '';
+            $('#phone')[0].value = '';
+            $('#email')[0].value = '';
           } else {
             $('.formcontact')
               .find('.output_message_holder')

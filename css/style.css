@@ -2405,7 +2405,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url('/img/image4.jpeg');
+  background-image: url('/img/image2.jpeg');
 }
 .fact-badges {
   margin-top: 65px;
@@ -3086,7 +3086,7 @@ body.blog-page article .comments-form .custom-button:before {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url('/img/image4.jpeg');
+  background-image: url('/img/image2.jpeg');
 
 }
 .contactform .form-container {
